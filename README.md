@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+########### What this application does
+Applicants in an interview process must answer such questions as "have you ever been submitted to XYZ corp?", "when?", "by whom?" and internally they may wonder "how many active applications do I have?",
+"what stage am I at in my interviews?" or other such queries. Applicants will need the ability to log calls, in-person interviews, assignments, req's, and maybe more items (need/req for extensibility).
+
+This webapp should store data in a cloud DB, and provide a job-searching individual a UI which let's them respond appropriately to recruiters (bring up the client (ACME) you are discussing), managers (bring up the job reqs), other recruiters (have you applied at XYZ?). Progressive/mobile are nice to have or maybe higher in importance than that. Nice-to-have is customizability. Also extensibility.
+
 ## Available Scripts
 
 In the project directory, you can run:
